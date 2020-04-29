@@ -1,12 +1,19 @@
-﻿using ContactsApp;
+﻿using Contacts;
+using ContactsApp;
 using System;
 using System.Collections.Generic;
+using System.IO;
 
 class Program
 {
     static void Main(string[] args)
     {
         List<Contact> danhba = new List<Contact>();
+
+        // doc du lieu tu file
+        if (File.Exists("contacts.txt"))
+            XuLyFile.LayDuLieuTuFile(danhba);
+
         char r;
         do
         {
@@ -36,6 +43,8 @@ class Program
                              c.DiaChi,
                              c.SDT);
         }
+
+        XuLyFile.LuuDuLieuRaFile(danhba);
         Console.ReadLine();
     }
 }
