@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Git\contactapp\ContactsApp\bin\Debug\ContactsApp.exe.config
+C:\Users\admin\Desktop\Git\contactapp\ContactsApp\bin\Debug\ContactsApp.exe
+C:\Users\admin\Desktop\Git\contactapp\ContactsApp\bin\Debug\ContactsApp.pdb
+C:\Users\admin\Desktop\Git\contactapp\ContactsApp\obj\Debug\ContactsApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Git\contactapp\ContactsApp\obj\Debug\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Git\contactapp\ContactsApp\obj\Debug\ContactsApp.exe
+C:\Users\admin\Desktop\Git\contactapp\ContactsApp\obj\Debug\ContactsApp.pdb
